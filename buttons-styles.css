@@ -1,0 +1,50 @@
+/* Style all font awesome icons */
+i.fa {
+    margin-right: 10px;
+    text-align: center;
+}
+.contact i.fa {
+    font-size: 23px;
+    width: 30px;
+}
+
+.links>.fa {
+    box-sizing: initial;
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 4px;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+
+.links>.fa:hover {
+    opacity: 0.7;
+}
+
+.links>.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.links>.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.links>.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.links>.fa-skype {
+    background: #00aff0;
+    color: white;
+}
+
+.links>.fa-github {
+    background: #BEBFC1;
+    color: white;
+}
